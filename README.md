@@ -1,0 +1,1 @@
+![eShop reference application](img/eshop_architecture.png)
